@@ -1,4 +1,4 @@
-# Hístorico de seguidores y seguidos de Vox en Twitter
+# Evolución de Vox en Twitter
 
 ## Contexto
 En el año 2018 salta el escándalo de _Cambridge Analytica_ por el uso de información de millones de usuarios de Facebook para crear anuncios políticos personalizados para las presidenciales de EE. UU. en 2016. Posteriores investigaciones demuestran que esta empresa había creado una maquinaria para manipular las decisiones de los votantes. Usaba desde prostitutas o sobornos para tentar a los rivales políticos para después grabarlos, hasta la creación de miles de cuentas en redes sociales y la difusión de fakes news en ellas.

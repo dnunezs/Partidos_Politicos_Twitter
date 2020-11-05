@@ -16,7 +16,7 @@ Para este primer análisis de las redes sociales de Vox vamos a usar el históri
 - **Plot_Vox_Twitter.ipynb** Contiene dos gráficos que ayudan al análisis de los datos.
 
 - **Vox_Twitter.csv** El data set contiene los datos semanales de los nuevos seguidores, nuevos seguidos y la media de la cuenta oficial de Twitter de Vox (@vox_es) desde Mayo de 2017 hata octubre de 2020. En el momento del Scraping, la base tiene 179 datos que comprenden desde la semana 22 de mayo de 2017 hasta la semana anterior al scrp que es 26 de Octubre de 2020.
-El data set está compuesto por tres variables: 
+El data set está compuesto por cuatro variables: 
   - Semana que hace referencia a la fecha de los datos de las otras variables. 
   - Seguidores, que son el número de nuevos seguidores que ha conseguido Vox esa semana. 
   - Seguidos, que indica el número de cuentas nuevas que sigue Vox en Twitter, este puede ser negativo en caso de dejar de seguir cuentas. 

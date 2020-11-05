@@ -11,8 +11,7 @@ Es por ello, por lo que se decide indagar en las redes sociales de Vox, empezand
 Para este primer análisis de las redes sociales de Vox vamos a usar el histórico de nuevos seguidores y seguidos. Estos datos no los podemos tomar directamente de la red social ya que solo puedes ver esos datos en tiempo real. La información se toma de Social Blade, web que proporciona información de numerosas redes sociales. En ella tenemos el histórico desde 2017. Se utilizar web scraping para tomar los datos de la página y hacer un data set con ellos.
 
 ## Fichero
-
 -**Scrap_Vox_Twitter.ipynb** Contiene el scraping de los datos y la transformación en dataset.
--**Plot_Vox_Twitter.ipynb** Contiene dos gráficos que ayudan al análisis de los datos
+-**Plot_Vox_Twitter.ipynb** Contiene dos gráficos que ayudan al análisis de los datos.
 -**Vox_Twitter.csv** Base con los datos extraídos
 

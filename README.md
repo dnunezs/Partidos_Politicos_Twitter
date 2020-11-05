@@ -15,5 +15,5 @@ Para este primer análisis de las redes sociales de Vox vamos a usar el históri
 
 - **Plot_Vox_Twitter.ipynb** Contiene dos gráficos que ayudan al análisis de los datos.
 
-- **Vox_Twitter.csv** Base con los datos extraídos
+- **Vox_Twitter.csv** El data set contiene los datos semanales de los nuevos seguidores, nuevos seguidos y la media de la cuenta oficial de Twitter de Vox (@vox_es) desde Mayo de 2017 hata octubre de 2020.
 

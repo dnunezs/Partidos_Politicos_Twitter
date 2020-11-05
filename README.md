@@ -11,9 +11,9 @@ Para este primer análisis de las redes sociales de Vox vamos a usar el históri
 
 ## Fichero
 
--**Scrap_Vox_Twitter.ipynb** Contiene el scraping de los datos y la transformación en dataset.
+- **Scrap_Vox_Twitter.ipynb** Contiene el scraping de los datos y la transformación en dataset.
 
--**Plot_Vox_Twitter.ipynb** Contiene dos gráficos que ayudan al análisis de los datos.
+- **Plot_Vox_Twitter.ipynb** Contiene dos gráficos que ayudan al análisis de los datos.
 
--**Vox_Twitter.csv** Base con los datos extraídos
+- **Vox_Twitter.csv** Base con los datos extraídos
 

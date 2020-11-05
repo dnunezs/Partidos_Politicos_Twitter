@@ -7,18 +7,18 @@ Lo interesante de _Cambridge Analytica_ es que hay algo mucho más grande detrá
 Es por ello, por lo que se decide indagar en las redes sociales de Vox, empezando por Twitter, ya que es una de las más fácil de manipular artificialmente sin pagar anuncios.
 
 ## Descripción
-Para este primer análisis de las redes sociales de Vox vamos a usar el histórico de nuevos seguidores y seguidos. Estos datos no los podemos tomar directamente de la red social ya que solo puedes ver esos datos en tiempo real. La información se toma de Social Blade, web que proporciona información de numerosas redes sociales. En ella tenemos el histórico desde 2017. Se utilizar web scraping para tomar los datos de la página y hacer un data set con ellos.
+Para este primer análisis de las redes sociales de Vox vamos a usar el histórico de nuevos seguidores y seguidos. También usaremos los de los otros tres prinipales partidos españoles (PSOE, PP y Podemos) para poder comparar.
+Estos datos no los podemos tomar directamente de la red social ya que solo puedes ver esos datos en tiempo real. La información se toma de Social Blade, web que proporciona información de numerosas redes sociales. En ella tenemos el histórico desde 2017 (2016 en el caso de PSOE). Se utilizar web scraping para tomar los datos de la página y hacer un data set con ellos.
 
 ## Ficheros
 
-- **Scrap_Vox_Twitter.ipynb** Contiene el scraping de los datos y la transformación en dataset.
+- **Scrap_Partidos_Politicos_Twitter.ipynb** Contiene el scraping de los datos y la transformación en dataset.
 
-- **Plot_Vox_Twitter.ipynb** Contiene dos gráficos que ayudan al análisis de los datos.
+- **Plot_Partidos_Politicos_Twitter.ipynb** Contiene gráficos que ayudan a un análisis preliminar de los datos.
 
-- **Vox_Twitter.csv** El data set contiene los datos semanales de los nuevos seguidores, nuevos seguidos y la media de la cuenta oficial de Twitter de Vox (@vox_es) desde Mayo de 2017 hata octubre de 2020. En el momento del Scraping, la base tiene 179 datos que comprenden desde la semana 22 de mayo de 2017 hasta la semana anterior al scrp que es 26 de Octubre de 2020.
-El data set está compuesto por cuatro variables: 
+- **Partidos_Politicos_Twitter.csv** El data set contiene los datos semanales de los nuevos seguidores y nuevos seguidos de las cuentas oficial de Twitter de los cuatro partios (@vox_es, @podemos, @populares, @psoe) desde junio de 2016 hata octubre de 2020. En el momento del Scraping, la base tiene 228 filas.
+El data set está compuesto por nueve variables: 
   - Semana que hace referencia a la fecha de los datos de las otras variables. 
-  - Seguidores, que son el número de nuevos seguidores que ha conseguido Vox esa semana. 
-  - Seguidos, que indica el número de cuentas nuevas que sigue Vox en Twitter, este puede ser negativo en caso de dejar de seguir cuentas. 
-  - Media, que es la media semanal actualizada de Vox. 
+  - Seguidores_partido (hay una por cada partido), que son el número de nuevos seguidores que ha conseguido el partido esa semana. 
+  - Seguidos_partido (hay una por cada partido), que indica el número de cuentas nuevas que sigue al partido en Twitter. Este puede ser negativo en caso de dejar de seguir cuentas. 
 

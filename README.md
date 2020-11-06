@@ -1,4 +1,4 @@
-# Evolución de Vox en Twitter
+# Evolución de los partidos políticos en Twitter
 
 ## Contexto
 En el año 2018 salta el escándalo de [Cambridge Analytica](https://www.infobae.com/america/tecno/2018/03/20/7-datos-para-entender-el-escandalo-de-facebook-y-cambridge-analytica/) por el uso de información de millones de usuarios de Facebook para crear anuncios políticos personalizados para las presidenciales de EE. UU. en 2016. Posteriores investigaciones demuestran que esta empresa había creado una maquinaria para manipular las decisiones de los votantes. [Usaba desde prostitutas o sobornos](https://www.infobae.com/america/eeuu/2018/03/19/sobornos-mujeres-y-noticias-falsas-el-ceo-de-cambridge-analytica-confeso-en-una-camara-oculta-los-metodos-que-salpican-a-facebook/) para tentar a los rivales políticos para después grabarlos, hasta la creación de miles de cuentas en redes sociales y la difusión de fakes news en ellas.

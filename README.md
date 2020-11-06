@@ -22,5 +22,8 @@ El data set está compuesto por nueve variables:
   - Seguidores_partido (hay una por cada partido), que son el número de nuevos seguidores que ha conseguido el partido esa semana. 
   - Seguidos_partido (hay una por cada partido), que indica el número de cuentas nuevas que sigue al partido en Twitter. Este puede ser negativo en caso de dejar de seguir cuentas. 
 
+## Data set
+El data set ha sido publicado en [Zanodo](https://zenodo.org/record/4247917#.X6VGJGhKhjG) bajo una licencia de Creative Commons Attribution 4.0 International con DOI 10.5281/zenodo.4247917
+
 ## Autoría
 El trabajo se ha realizado individualmente por Daniel Núñez

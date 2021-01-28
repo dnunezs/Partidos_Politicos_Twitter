@@ -1,4 +1,4 @@
-# Análisis de la evolución de los partidos políticos en Twitter
+# Análisis de los partidos políticos en Twitter
 Queremos analizar los datos de la evolución de los seguidores y seguidos de los principales partidos politicos en España, concretamente PSOE, PP, Vox y Podemos.
 Los datos no los podemos tomar directamente de la red social ya que solo puedes ver esos datos en tiempo real, pero podemos usar Web Scaping para obtener toda la información.
 El scraping lo hacemos en la web [Social Blade](https://socialblade.com/), ya que proporciona información y métricas de usuarios de numerosas redes sociales, entre ellas Twitter. En ella tenemos el histórico desde 2017(2016 en el caso de PSOE) y mediante web scraping tomamos los datos de la página para hacer un dataset y analizarlo.
